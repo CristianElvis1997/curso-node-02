@@ -1,5 +1,5 @@
 # NOTAS
-Mi primer proyecto en node
+ proyecto en node
 
 ```
 Options:
